@@ -1,0 +1,15 @@
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.AssemblyInfoInputs.cache
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.AssemblyInfo.cs
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.sourcelink.json
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\bin\Debug\net9.0\SieMarket.exe
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\bin\Debug\net9.0\SieMarket.deps.json
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\bin\Debug\net9.0\SieMarket.runtimeconfig.json
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\bin\Debug\net9.0\SieMarket.dll
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\bin\Debug\net9.0\SieMarket.pdb
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.dll
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\refint\SieMarket.dll
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.pdb
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\SieMarket.genruntimeconfig.cache
+C:\Users\Dell\source\tema-internship-siemens\Problem2\SieMarket\obj\Debug\net9.0\ref\SieMarket.dll
